@@ -297,7 +297,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 /*-------------------------------------       
         8. Clients-say 
 --------------------------------------*/
-.people{padding:115px 0 80px;background: #f8f9fb;}
+.people{padding:115px 0 80px;
+        background: #f8f9fb;
+}
 
 /*single-testimonial-box */
 .single-testimonial-box  {
