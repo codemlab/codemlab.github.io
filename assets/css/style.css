@@ -205,7 +205,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
 --------------------------------------*/
 .welcome-hero {
     position: relative;
-    background:url(../images/tz-photos/main.jpg)no-repeat;
+    background:url(../images/tz-photos/main.png)no-repeat;
     background-position: center;
     background-size: cover;
     z-index: 1;
